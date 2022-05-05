@@ -1,0 +1,10 @@
+{
+ 	"ID":"BR-01",
+  	"Descriptionn":"Отображение неправильного названия формы регистрации",
+  	"Pre-condition":"Открыть форму регистрации",
+ 	"Step":"Открыть форму регистрации",
+ 	"Actual Result":"Название формы регистрации ITCareerToday web form",
+      	"Expected Result":"Название формы регистрации Registration form",
+	"Environment":"win 10 Pro 21H2 x64,   Google Chrome ВерсияВерсия 100.0.4896.127 (Официальная сборка), (64 бит)",
+ 	"Commit":"Test 1"
+}
